@@ -1,4 +1,13 @@
-# beginner-html-site-scripted
-A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of [https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics). 
+# Default starter for Gridsome
+`
+### 1. Install Gridsome CLI tool if you don't have
 
-[Run the example live](https://mdn.github.io/beginner-html-site-scripted/).
+`npm install --global @gridsome/cli`
+
+### 2. Create a Gridsome project
+
+1. `gridsome create my-gridsome-site` to install default starter </li>
+2. `cd my-gridsome-site` to open folder
+3. `gridsome develop` to start local dev server at `http://localhost:8080`
+4. Happy coding 🎉🙌
+5. THanks
