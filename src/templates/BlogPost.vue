@@ -12,7 +12,6 @@
 query BlogPost ($path:String!) {
      post: blogPost (path: $path){
       title
-      body
   }
 }
 </page-query>
